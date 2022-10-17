@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Data science, Python, SQL & RDBMS, Machine Learning, Data Analytics
 - 💞️ I’m looking to collaborate on Data Visualisation and Model building projects
 - 📫 Reach me via mbiradar085@gmail.com
--->
+
